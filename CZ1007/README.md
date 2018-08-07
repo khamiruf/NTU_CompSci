@@ -1,4 +1,4 @@
-#**CZ1007 - Data Structure**
+# **CZ1007 - Data Structure**
 NTU SCSE (Computer Science Year 1 - 2017)
 
 Lab 01 - Basic C Programming
