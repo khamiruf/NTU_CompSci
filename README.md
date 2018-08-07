@@ -1,6 +1,5 @@
-# NTU_CompSci
-<h>cz1007 - Data Structure</h>
-NTU SCSE (Computer Science Year 1 - 2017)
+# NTU_CompSci cz1007 - Data Structure 
+Computer Science Year 1 - 2017
 
 Lab 01 - Basic C Programming
 
